@@ -1,0 +1,15 @@
+{
+  "name": "baby-feeding-tracker",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-07",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "FEEDING_LOGS",
+      "database_name": "baby_feeding_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
