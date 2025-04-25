@@ -7,7 +7,7 @@
     {
       "binding": "FEEDING_LOGS",
       "database_name": "baby_feeding_db",
-      "database_id": "c938d149-3122-4b39-9120-2a18830e5ff8"
+      "database_id": "c938d149-3122-4b39-9120-2a18830e5ff8",
     }
   ],
   "observability": {
